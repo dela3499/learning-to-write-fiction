@@ -17,7 +17,7 @@ Musk broke off to take a call as they left, and James's shaking was hidden only 
 
 ---
 
-David burst into the darkness of the Gigafactory basement. His fear and curiosity multiplied when he saw massive spools of thin steel wire lined the walls, lit only by his halogen lamp. He set down his gear, and began taking photographs.
+David burst into the darkness of the Gigafactory basement. His fear and curiosity multiplied when he saw that massive spools of thin steel wire lined the walls, lit only by his halogen lamp. He set down his gear, and began taking photographs.
 
 Silent and invisible, a drone approached his infrared form and fired. 
 
