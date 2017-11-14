@@ -8,4 +8,4 @@ I'm writing a few stories a day, spending an hour on each one, trying out lots o
 
 2. [The Optimizer](stories/02-the-optimizer.md) - An agent of Jeff Bezos discovers Elon Musk's dark secret. 
 
-3. [Cold Feet](03-cold-feet.md) - I confront Iceland's February cold. 
+3. [Cold Feet](stories/03-cold-feet.md) - I confront Iceland's February cold. 
