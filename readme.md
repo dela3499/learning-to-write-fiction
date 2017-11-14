@@ -1,6 +1,6 @@
 # Learning to write fiction
 
-I'm writing a few stories a day, spending an hour on each one, trying out lots of different approaching, and hoping to improve my skills in the process. You can find my stories below! Feel free to offer any feedback. 
+I'm writing a few stories a day, spending an hour on each one, trying out lots of different approaches, and hoping to improve my skills in the process. You can find my stories below! Feel free to offer any feedback. 
 
 # Stories
 
