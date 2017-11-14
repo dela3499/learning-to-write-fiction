@@ -78,6 +78,9 @@ W' What's wrong mother? Are you alright? Need a pillow fu ful ful fluffing?" she
 # Planning
 - Story: John Cleese kills his mother (after she asks him to). 
 - Method: No backspaces on first version (https://www.moreofless.co.uk/earnestwrite)
-- Schedule: 30m writing. 30m editing.
+- Schedule: 30m writing. 15m critique. 15m writing. 
 
 # Critique
+- All dialogue. Almost no action, description, or anything else. 
+- Not a big ending. She thinks her son will poison her potatoes, but he doesn't. Maybe better to take her poison shopping, or something. Or maybe suicide shopping more generally. Maybe there's an agency. She could have fun shopping for death. Various kinds of extreme sports, dangerous missions and activities. 
+- None of the characters are all that vivid. Maybe just focus on one character. Just John Cleese, and he's shopping around a suicide story that's like the Apple store of suicides. 
