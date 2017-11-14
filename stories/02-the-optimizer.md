@@ -9,15 +9,15 @@ James said, "Well, it's been a pleasure to see this groundbreaking work, and I h
 
 An imperceptible rumble shook beneath them.
 
-James continued, holding his nerves in check. "to see more factories like it when you start to expand. Thank you for the tour."
+James continued, hiding his nerves. "to see more factories like it when you start to expand. Thank you for the tour."
 
 "Yeah, it was great to have you." Musk said as they all approached the main entrance. 
 
-Musk broke off to take a call as they left, but James was still nervous. 
+Musk broke off to take a call as they left, and James's shaking was hidden only by his fast walk toward the getaway van. 
 
 ---
 
-Having peeled away from the mock crew, David burst into the darkness of the Gigafactory basement. His fear and curiosity multiplied. Massive spools of thin steel wire lined the walls, lit only by his halogen lamp. He set down his gear, and began taking photographs.
+David burst into the darkness of the Gigafactory basement. His fear and curiosity multiplied when he saw massive spools of thin steel wire lined the walls, lit only by his halogen lamp. He set down his gear, and began taking photographs.
 
 Silent and invisible, a drone approached his infrared form and fired. 
 
