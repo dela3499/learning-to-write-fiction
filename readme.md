@@ -15,6 +15,8 @@ In practicing fiction, I'm writing a few stories a day, spending an hour on each
 
 5. [Universal Acid](stories/05-universal-acid.md) - A burnt-out neuroscientist's mind cools off on retreat. (533 words)
 
+6. [Symmetry](stories/06-symmetry.md) - Two clones have their first meeting. (199 words)
+
 # Nonfiction
 
 1. [Before and After](essays/01-before-and-after.md) - Apply weight-loss techniques to learning. (364 words)
