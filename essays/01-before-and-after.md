@@ -1,4 +1,5 @@
 # Before & After 
+
 When someone commits to losing weight or getting stronger, they'll often take a 'before' picture, eat well and exercise for a time, and then take an 'after' picture. This general approach applies to more than fitness. I'm applying it to writing, for instance. 
 
 At the end of October, I went to an event kicking off National Novel Writing Month, or *Nanowrimo* for short. Every year, thousands of people commit to writing a 50,000+ word novel in November, so I thought I'd join them. 
