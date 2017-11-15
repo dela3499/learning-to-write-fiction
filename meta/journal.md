@@ -1,7 +1,0 @@
-#Day 1
-
-In *Deathbrowsing*, I wrote around 800 words at first, mostly of dialogue, and found things really quite boring. When I reviewed it, I had the idea to do something more interesting than have John Cleese's mother ask for help dying, and instead had John Cleese cheerily shop for his own death. This introduced an interesting premise, shopping for death, and focused the entire story on one character. 
-
-In *The Optimizer*, I started with the premise that Elon Musk was a supervillain. I settled on the idea that he should ironically be a 'paper-clip maximizer' (a nightmare artificial intelligence thought experiment). I then came up with a dramatic ending line, "Tell Bezos that I'm going to enjoy turning him into paper clips." The story flowed fairly easily, and I knew I simply had to set it up, so I could manage to have a single, short paragraph to show the underbelly of the Gigafactory, and Musk's true intent. This one was really fun to write. 
-
-So, it seems that having a strong, memorable premise is key, and it can help to have a strong ending written at the start too. Stephen King says he would hate to start with the ending, because, for him, the fun of writing is finding out what the characters are going to do. 
