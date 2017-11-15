@@ -13,6 +13,8 @@ In practicing fiction, I'm writing a few stories a day, spending an hour on each
 
 4. [Unschooled](stories/04-unschooled.md) - An accent-faking student finds freedom from schooling. (951 words)
 
+5. [Universal Acid](stories/05-universal-acid.md) - A burnt-out neuroscientist's mind cools off on retreat. (533 words)
+
 # Nonfiction
 
 1. [Before and After](essays/01-before-and-after.md) - Apply weight-loss techniques to learning. (364 words)
