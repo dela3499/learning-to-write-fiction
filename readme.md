@@ -1,7 +1,7 @@
 # Learning to write
 Inspiried by Nanowrimo, I decided to start writing fiction this month. While I'm at it, I'll also practice writing nonfiction. You can find my successive learning attempts here. 
 
-# Fiction
+# Stories
 
 In practicing fiction, I'm writing a few stories a day, spending an hour on each one, trying out lots of different approaches, and hoping to improve my skills in the process. You can find my stories below! Feel free to offer any feedback. 
 
@@ -10,6 +10,8 @@ In practicing fiction, I'm writing a few stories a day, spending an hour on each
 2. [The Optimizer](stories/02-the-optimizer.md) - An agent of Jeff Bezos discovers Elon Musk's dark secret. (315 words)
 
 3. [Cold Feet](stories/03-cold-feet.md) - I confront Iceland's February cold. (453 words)
+
+4. [Unschooled](stories/04-unschooled.md) - An accent-faking student finds freedom from schooling. (951 words)
 
 # Nonfiction
 
