@@ -25,7 +25,7 @@ Here are a few things I like about having a routine.
 Normally, you're supposed to build up one habit a time. I'm impatient with that sort of thing, but I find myself able to adhere to a good schedule. That means I'm improving my work, sleep, and learning habits all at once. 
 
 ###  It encourages me to make time for what's important.
-Instead of simply having goals, I schedule them into my day. *Learn something new from 2-5pm.* is better than *Learn something new today.*
+Instead of simply having goals, I schedule them into my day. "*Learn something new from 2-5pm.*" is better than "*Learn something new today.*"
 
 Try sticking to a routine, and see if it helps you make more progress. 
 
