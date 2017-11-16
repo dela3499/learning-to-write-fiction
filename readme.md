@@ -20,3 +20,5 @@ In practicing fiction, I'm writing a few stories a day, spending an hour on each
 # Nonfiction
 
 1. [Before and After](essays/01-before-and-after.md) - Apply weight-loss techniques to learning. (364 words)
+
+2. [Stick to a Routine](essays/02-routine.md) - Make time for what matters. (331 words)
