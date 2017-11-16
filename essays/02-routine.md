@@ -17,15 +17,15 @@ Here it is.
 
 The specifics aren't that important, but this provides me with a basic structure. I'm able to improvise and adjust things on any given day, but the basic structure works. I'm alert in the morning, I cool down in the evening, the most intellectually challenging parts of day (work, learning, and planning) are separated by breaks. 
 
-As an aside, you probably don't want to be too detailed in your routine. Just block of multi-hour chunks for various purposes. If you're too detailed, it's hard to keep track of things, and you probably won't stick to it. 
+As an aside, you probably don't want to be too detailed in your routine. Just block off multi-hour chunks for various purposes. If your routine too detailed, it's hard to keep track of things, and you probably won't stick to it. 
 
 Here are a few things I like about having a routine. 
 
-1. It lets me build up multple habits at a time. 
+### It lets me build up multple habits at a time. 
 Normally, you're supposed to build up one habit a time. I'm impatient with that sort of thing, but I find myself able to adhere to a good schedule. That means I'm improving my work, sleep, and learning habits all at once. 
 
-2. It encourages me to make time for what's important
-Instead of having simply having goals, I schedule them into my day. *Learn something new from 2-5pm.* is better than *Learn something new today.*
+###  It encourages me to make time for what's important.
+Instead of simply having goals, I schedule them into my day. *Learn something new from 2-5pm.* is better than *Learn something new today.*
 
 Try sticking to a routine, and see if it helps you make more progress. 
 
