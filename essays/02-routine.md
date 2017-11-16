@@ -6,14 +6,14 @@ My current routine solves these problems, and I can actually stick to it.
 
 Here it is.
 
-6 - wake up & exercise
-8 - work
-12 - eat a social lunch
-2 - learn something new
-5 - take a walk
-6 - plan for what's ahead
-7 - disconnect from work
-10 - sleep 
+- 6 - wake up & exercise
+- 8 - work
+- 12 - eat a social lunch
+- 2 - learn something new
+- 5 - take a walk
+- 6 - plan for what's ahead
+- 7 - disconnect from work
+- 10 - sleep 
 
 The specifics aren't that important, but this provides me with a basic structure. I'm able to improvise and adjust things on any given day, but the basic structure works. I'm alert in the morning, I cool down in the evening, the most intellectually challenging parts of day (work, learning, and planning) are separated by breaks. 
 
