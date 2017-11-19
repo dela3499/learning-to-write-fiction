@@ -7,7 +7,7 @@ Such boldness from anyone else would make me skeptical, but Musk and his team se
 
 Given how unusual it is to hear talk of this kind, what's the lesson to be learned? Are most people just not trying hard enough? Are we right when our common sense has us raise an eyebrow when anyone aims too high? Do we too easily give up on implausible ideas? 
 
-Plausibility is just a heuristic, after all. It's to do with questions like, "Can I imagine a way to do it?" and "Have it been done before?" For any new idea, most people won't have heard of anything like it, or know how to make it happen, so it will seem implausible to them. It could, however, still be possible. In the infinite space of possible and desirable transformations, most have never been tried or even thought of, and are therefore implausible. 
+Plausibility is just a heuristic, after all. It's to do with questions like, "Can I imagine a way to do it?" and "Has it been done before?" For any new idea, most people won't have heard of anything like it, or know how to make it happen, so it will seem implausible to them. It could, however, still be possible. In the infinite space of possible and desirable transformations, most have never been tried or even thought of, and are therefore implausible. 
 
 The upshot is this: an idea isn't dead upon being pronounced implausible. Instead, the goal should be to find out why the thing has never been done before. Perhaps there is some fundamental physical constraint, but perhaps not, in which case you may want to pursue it!
 

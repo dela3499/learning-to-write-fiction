@@ -21,7 +21,7 @@ As an aside, you probably don't want to be too detailed in your routine. Just bl
 
 Here are a few things I like about having a routine. 
 
-### It lets me build up multple habits at a time. 
+### It lets me build up multiple habits at a time. 
 Normally, you're supposed to build up one habit a time. I'm impatient with that sort of thing, but I find myself able to adhere to a good schedule. That means I'm improving my work, sleep, and learning habits all at once. 
 
 ###  It encourages me to make time for what's important.
