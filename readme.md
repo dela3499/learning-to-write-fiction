@@ -26,3 +26,5 @@ In practicing fiction, I'm writing a few stories a day, spending an hour on each
 3. [Elon Musk's Implausible, but Possible Solutions](essays/03-possible.md) - What can we learn from Elon Musk? (451 words)
 
 4. [Creating Digital People](essays/04-creating-digital-people.md) - What will it take to create a new way of life? (367 words)
+
+5. [Problem-Solving vs. Problem-Having](essays/05-having-vs-solving.md) - What attitudes encourage progress? (367 words)
