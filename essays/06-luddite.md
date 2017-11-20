@@ -25,7 +25,7 @@ While this isn't an exhaustive list, it contains the things I use most often, an
 
 With these tools, I can communicate with anyone basically for free, in small ways or large. I can learn many things for free, and everything else for very little. Entertainment's cheap and available on demand. I can carry a library of books with me. I can live without a car, find cheap flights, and never get lost. 
 
-Still, this list doesn't quite capture life in the digital world. When you put all these things together, life is very different. The problems you face are different. Some problems, like getting lost, simply go away. You feel much more resourceful, because there are so many resources for learning things. You never feel stuck. You're not a hostage to your own ideas. The Luddite life, without these tools seems needlessly difficult, isolated, and uncomfortable. 
+Still, this list doesn't quite capture life in the digital world. When you put all these things together, life is very different. The problems you face are different. Some problems, like getting lost, simply go away. You feel much more confident, because there are so many resources for learning things. You never feel stuck. You're not a hostage to your own ideas. The Luddite life lacks these tools, and seems needlessly difficult, isolated, and uncomfortable. 
 
 I like having access to the digital world. 
 
